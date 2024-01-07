@@ -1,0 +1,6 @@
+User story:
+As a boot camp student, I want each topic section to be styled with CSS so that it is easy to see where each section begins and ends.
+Acceptance criteria:
+It is done when style.css includes a selector called .card.
+It is done when the .card selector contains width, margin, border, and box-shadow properties.
+It is done when the webpage resembles the following image:
