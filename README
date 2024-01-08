@@ -1,0 +1,11 @@
+User story
+
+As a boot camp student,
+I want the prework notes to be structed on a weboage.
+So that i can easily find and read the information.
+
+Acceptance Criteria
+
+Given the prework project repository,
+When i view the README for the repository,
+Then I can see a professional README that provides information on the project and how to use it
